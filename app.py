@@ -3,7 +3,6 @@ from forex_python.converter import CurrencyRates
 from forex_python.converter import CurrencyCodes
 import datetime
 from datetime import datetime 
-import numpy as np
 import pandas as pd
 from decimal import *
 from fbprophet import Prophet
