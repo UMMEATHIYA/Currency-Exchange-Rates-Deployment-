@@ -1,3 +1,5 @@
+APScheduler==3.6.3
+alpha_vantage==2.1.2
 base58==2.0.1
 cachetools==4.1.0
 catalogue==1.0.0
@@ -8,6 +10,8 @@ Cython==0.29.14
 dask==2.13.0
 dataclasses==0.7
 DateTime==4.3
+dnspython==1.16.0
+environs==7.1.0
 fbprophet==0.6
 feedparser==5.2.1
 filelock==3.0.12
@@ -56,6 +60,7 @@ nbformat==5.0.4
 networkx==2.4
 notebook==6.0.3
 numba==0.48.0
+numpy
 pandas==1.0.4
 plotly==4.8.1
 py==1.8.1
